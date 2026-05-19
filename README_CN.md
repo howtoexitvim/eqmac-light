@@ -14,9 +14,9 @@ eqMac Light 是专为 macOS 打造的一个轻量、纯净且无干扰的 eqMac 
 
 ### 📸 软件截图
 <p align="center">
-  <img src="screenshots/menu.png" width="380" alt="eqMac Light 菜单" />
+  <img src="screenshots/menu.png" height="400" alt="eqMac Light 菜单" />
   &nbsp;&nbsp;
-  <img src="screenshots/setting.png" width="380" alt="eqMac Light 设置" />
+  <img src="screenshots/setting.png" height="400" alt="eqMac Light 设置" />
 </p>
 
 ### 📥 下载安装

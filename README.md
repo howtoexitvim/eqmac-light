@@ -14,9 +14,9 @@ This project focuses on keeping the essential audio equalizer features while pro
 
 ### 📸 Screenshots
 <p align="center">
-  <img src="screenshots/menu.png" width="380" alt="eqMac Light Menu" />
+  <img src="screenshots/menu.png" height="400" alt="eqMac Light Menu" />
   &nbsp;&nbsp;
-  <img src="screenshots/setting.png" width="380" alt="eqMac Light Settings" />
+  <img src="screenshots/setting.png" height="400" alt="eqMac Light Settings" />
 </p>
 
 ### 📥 Download
