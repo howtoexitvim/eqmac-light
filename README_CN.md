@@ -20,5 +20,10 @@ eqMac Light 是专为 macOS 打造的一个轻量、纯净且无干扰的 eqMac 
 </p>
 
 ### 📥 下载安装
-
 你可以直接在 [Releases](https://github.com/howtoexitvim/eqmac-light/releases) 页面下载预编译好的 `eqMac.app` 压缩包。解压后拖入 `/Applications` 文件夹即可直接运行。
+
+### 📬 联系方式
+如果你对本版本有任何疑问或反馈，欢迎通过邮件联系我：[shuqiwhat@gmail.com](mailto:shuqiwhat@gmail.com)。
+
+### ❤️ 特别致谢
+本项目基于 [Bitgapp](https://eqmac.app) 开发的优秀开源项目 [eqMac](https://github.com/bitgapp/eqMac) 进行定制。非常感谢原作者及所有贡献者在 CoreAudio 驱动和应用层上做出的杰出贡献！

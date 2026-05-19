@@ -20,5 +20,10 @@ This project focuses on keeping the essential audio equalizer features while pro
 </p>
 
 ### 📥 Download
-
 You can download the pre-compiled application bundle (`eqMac.app`) directly from the [Releases](https://github.com/howtoexitvim/eqmac-light/releases) page. Drag it to your `/Applications` directory, and you are ready to go!
+
+### 📬 Contact
+If you have any questions or feedback regarding this build, feel free to reach out via email: [shuqiwhat@gmail.com](mailto:shuqiwhat@gmail.com).
+
+### ❤️ Credits
+This project is a fork of the amazing [eqMac](https://github.com/bitgapp/eqMac) created by [Bitgapp](https://eqmac.app). Huge thanks to the original authors and contributors for their outstanding work on the CoreAudio driver and eqMac application!
